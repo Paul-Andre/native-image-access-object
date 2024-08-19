@@ -1,0 +1,8 @@
+main
+libpoint_dynamic.h
+libpoint.so
+libpoint.h
+graal_isolate_dynamic.h
+graal_isolate.h
+Point.class
+
